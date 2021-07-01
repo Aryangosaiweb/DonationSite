@@ -1,2 +1,2 @@
 # DonationSite
-sample donation site 
+-> Payment Gateway Integration: The Sparks Foundation Web Development Internship
